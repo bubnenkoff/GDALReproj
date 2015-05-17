@@ -1,0 +1,9 @@
+{
+	"name": "AppReproj",
+	"description": "Image reprojecting",
+	"copyright": "Copyright © 2015, Dmitry Bubnenkov",
+	"authors": ["Dmitry Bubnenkov"],
+	"dependencies": {
+
+	}
+}
